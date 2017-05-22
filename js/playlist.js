@@ -71,7 +71,7 @@ var conferenceType = {
         allProducts.phpstorm,
         allProducts.datagrip,
         allProducts.webstorm,
-        
+
     ]
 
 };
@@ -79,4 +79,4 @@ var conferenceType = {
 // to switch on a playlist for a specific conference type,ª
 // assign it to the currentPlaylist variable, i.e.:
 // var currentPlaylist = conferenceType.dotnet;
-var currentPlaylist = conferenceType.php;
+var currentPlaylist = conferenceType.dotnet;
