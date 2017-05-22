@@ -323,6 +323,10 @@ body {
     height: 8vh;
     width: 8vh;
     box-shadow: none; }
+.reveal section ul.slide-block li img.slide-logo-medium {
+  height: 16vh;
+  width: 16vh;
+  box-shadow: none; }
   .reveal section ul.slide-block li img.slide-logo-customers-round {
     height: 5vh;
     width: 6vh;
